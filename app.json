@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "ASA",
+    "slug": "ASA",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/images/adaptive-icon.png",
+      "backgroundColor": "#000000",
+      "splash": {
+        "image": "./assets/images/splash.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#000000"
+      },
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "package": "ir.sina.ASA",
+        "googleServicesFile": "./google-services.json",
+        "useNextNotificationsApi": true
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4d7d92ef-3b71-48c9-b5e0-0570f292922f"
+      }
+    },
+    "android": {
+      "package": "com.aliemami.ASA"
+    }
+  }
+}

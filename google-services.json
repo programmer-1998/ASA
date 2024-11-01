@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391599100244",
+    "project_id": "asa-tading-group",
+    "storage_bucket": "asa-tading-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391599100244:android:3e4fff594cce993182f8c1",
+        "android_client_info": {
+          "package_name": "ir.sina.ASA"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL0UNEVpJtQx9UVKL37mPtow0rCmkKgzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
