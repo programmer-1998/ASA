@@ -5,7 +5,6 @@ import History from './components/History';
 import Alarm from './components/Alarm';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import firebase from '@react-native-firebase/app';
 
 
 const Stack = createNativeStackNavigator();
