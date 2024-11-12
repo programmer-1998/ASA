@@ -2,9 +2,7 @@
 
 # Bugs
 
-1.  just I can not export the android app with EAS option
-
-2.  find yourself
+1.  nothing yet
 
 # Tasks in Test:
 
