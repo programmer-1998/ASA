@@ -12,6 +12,4 @@
 
 1. The time that Alarm.js will appear
 
-2. sound and vibration of notifications
-
-3. the register web link 
+2. the register web link 
